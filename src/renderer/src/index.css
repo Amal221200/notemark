@@ -30,7 +30,7 @@
     }
 
     ::-webkit-scrollbar-track {
-        @apply bg-transparent;
+        @apply bg-transparent mt-8;
     }
 
     header {

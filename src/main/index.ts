@@ -23,7 +23,7 @@ function createWindow(): void {
     title: "NoteMark",
     titleBarStyle: "hidden",
     titleBarOverlay: {
-      color: "#0f172a00",
+      color: "#020617",
       symbolColor: "white",
     },
     vibrancy: "under-window",
